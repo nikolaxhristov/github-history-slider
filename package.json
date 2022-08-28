@@ -1,0 +1,25 @@
+{
+	"name": "github-history-slider",
+	"version": "0.0.1",
+	"type": "module",
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Playform/github-history-slider.git"
+	},
+	"homepage": "https://github.com/Playform/github-history-slider#readme",
+	"bugs": {
+		"url": "https://github.com/Playform/github-history-slider/issues"
+	},
+	"author": "Nikola Hristov <nikola@playform.cloud>",
+	"license": "MIT",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"scripts": {
+		"build": "playform build src/*/*.ts"
+	},
+	"devDependencies": {
+		"@playform/config": "0.0.3",
+		"@playform/scripts": "0.0.5"
+	}
+}
