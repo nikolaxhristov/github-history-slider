@@ -5,21 +5,21 @@
 	"description": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lightrix/github-history-slider.git"
+		"url": "https://github.com/NikolaRHristov/github-history-slider.git"
 	},
-	"homepage": "https://github.com/lightrix/github-history-slider#readme",
+	"homepage": "https://github.com/NikolaRHristov/github-history-slider#readme",
 	"bugs": {
-		"url": "https://github.com/lightrix/github-history-slider/issues"
+		"url": "https://github.com/NikolaRHristov/github-history-slider/issues"
 	},
 	"author": "Nikola Hristov <nikola@lightrix.dev>",
 	"license": "MIT",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"scripts": {
-		"build": "lightrix build src/*/*.ts"
+		"build": "nikola build src/*/*.ts"
 	},
 	"devDependencies": {
-		"@lightrix/config": "0.0.1",
-		"@lightrix/scripts": "0.0.1"
+		"@nikolarhristov/config": "0.0.1",
+		"@nikolarhristov/scripts": "0.0.1"
 	}
 }
