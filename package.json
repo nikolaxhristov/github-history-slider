@@ -16,10 +16,10 @@
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"scripts": {
-		"build": "nikola build src/*/*.ts"
+		"build": "lightrix build src/*/*.ts"
 	},
 	"devDependencies": {
-		"@nikolarhristov/config": "0.0.1",
-		"@nikolarhristov/scripts": "0.0.1"
+		"@lightrix/config": "0.0.1",
+		"@lightrix/scripts": "0.0.1"
 	}
 }
