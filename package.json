@@ -11,7 +11,7 @@
 	"bugs": {
 		"url": "https://github.com/nikolarhristov/github-history-slider/issues"
 	},
-	"author": "NIKOLAHRISTOV",
+	"author": "nikolarhristov",
 	"license": "MIT",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
