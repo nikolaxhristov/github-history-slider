@@ -5,11 +5,11 @@
 	"description": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/NikolaRHristov/github-history-slider.git"
+		"url": "https://github.com/nikolarhristov/github-history-slider.git"
 	},
-	"homepage": "https://github.com/NikolaRHristov/github-history-slider#readme",
+	"homepage": "https://github.com/nikolarhristov/github-history-slider#readme",
 	"bugs": {
-		"url": "https://github.com/NikolaRHristov/github-history-slider/issues"
+		"url": "https://github.com/nikolarhristov/github-history-slider/issues"
 	},
 	"author": "NIKOLAHRISTOV",
 	"license": "MIT",
