@@ -5,13 +5,13 @@
 	"description": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nikolarhristov/github-history-slider.git"
+		"url": "https://github.com/nikolaxhristov/github-history-slider.git"
 	},
-	"homepage": "https://github.com/nikolarhristov/github-history-slider#readme",
+	"homepage": "https://github.com/nikolaxhristov/github-history-slider#readme",
 	"bugs": {
-		"url": "https://github.com/nikolarhristov/github-history-slider/issues"
+		"url": "https://github.com/nikolaxhristov/github-history-slider/issues"
 	},
-	"author": "Nikola Hristov <nikola@nikolahristov.tech>",
+	"author": "nikolaxhristov",
 	"license": "MIT",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
