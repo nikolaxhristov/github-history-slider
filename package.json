@@ -17,9 +17,7 @@
 		"build": "lightrix build src/*/*.ts"
 	},
 	"devDependencies": {
+		"@lightrix/config": "0.0.3",
 		"@lightrix/scripts": "0.0.5"
-	},
-	"dependencies": {
-		"@lightrix/config": "workspace:0.0.3"
 	}
 }
