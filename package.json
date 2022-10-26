@@ -1,0 +1,23 @@
+{
+	"name": "github-history-slider",
+	"version": "0.0.1",
+	"type": "module",
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nikolaxhristov/github-history-slider.git"
+	},
+	"homepage": "https://github.com/nikolaxhristov/github-history-slider#readme",
+	"bugs": {
+		"url": "https://github.com/nikolaxhristov/github-history-slider/issues"
+	},
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"scripts": {
+		"build": "lightrix build src/*/*.ts"
+	},
+	"devDependencies": {
+		"@lightrix/config": "0.0.6",
+		"@lightrix/scripts": "0.0.13"
+	}
+}
