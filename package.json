@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"type": "module",
 	"description": "",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/nikolaxhristov/github-history-slider.git"
@@ -11,11 +12,8 @@
 	"bugs": {
 		"url": "https://github.com/nikolaxhristov/github-history-slider/issues"
 	},
-	"engines": {
-		"node": ">=14.21.0"
-	},
+	"private": false,
 	"main": "./dist/index.js",
-	"exports": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": "lightrix build src/*/*.ts"
@@ -23,5 +21,8 @@
 	"devDependencies": {
 		"@lightrix/config": "0.0.6",
 		"@lightrix/scripts": "0.0.14"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
