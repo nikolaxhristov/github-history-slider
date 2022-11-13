@@ -3,7 +3,6 @@
 	"version": "0.0.1",
 	"type": "module",
 	"description": "",
-	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/nikolaxhristov/github-history-slider.git"
@@ -12,6 +11,7 @@
 	"bugs": {
 		"url": "https://github.com/nikolaxhristov/github-history-slider/issues"
 	},
+	"license": "MIT",
 	"private": false,
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
